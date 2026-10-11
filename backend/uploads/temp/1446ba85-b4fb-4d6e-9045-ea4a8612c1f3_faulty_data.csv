@@ -1,0 +1,4 @@
+Date,Description,Amount
+invalid-date,Corrupted Transaction,5000.00
+2026-10-20,Zero Amount Record,0
+2026-10-21,Valid Salary Advance,8500.00

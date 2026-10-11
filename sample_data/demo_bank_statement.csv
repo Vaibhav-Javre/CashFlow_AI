@@ -1,0 +1,8 @@
+Transaction Date,Description,Reference Number,Debit,Credit,Balance
+2026-10-01,Opening Balance B/F,,0.00,0.00,842500.00
+2026-10-02,Client Advance - Tata Motors Ltd,UTR-NEFT-20261002-01,,150000.00,992500.00
+2026-10-03,Raw Material Steel Supply - Jindal Steel,UTR-RTGS-20261003-99,120000.00,,872500.00
+2026-10-05,Electricity & Factory Power Utility,CHQ-882103,24500.00,,848000.00
+2026-10-07,Customer Clearance - Bharat Heavy Tech,UTR-IMPS-20261007-42,,85000.00,933000.00
+2026-10-08,Commercial Warehouse Lease Rental,ACH-DEBIT-9912,45000.00,,888000.00
+2026-10-10,Precision Tooling Components Purchase,UTR-NEFT-20261010-88,38000.00,,850000.00

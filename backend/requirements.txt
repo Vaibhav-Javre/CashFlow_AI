@@ -1,0 +1,11 @@
+Flask==3.1.0
+flask-cors==5.0.0
+pandas==2.2.3
+numpy==2.2.3
+python-dotenv==1.0.1
+openpyxl==3.1.5
+pypdf==6.20.0
+pillow==12.3.0
+pytesseract==0.3.13
+google-genai>=2.29.0
+requests>=2.32.0

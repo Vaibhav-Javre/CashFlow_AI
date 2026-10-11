@@ -1,0 +1,5 @@
+Invoice Number,Customer Name,Invoice Date,Due Date,Invoice Amount,Description
+INV-2026-OCT-01,Mahindra Aerospace Division,2026-10-01,2026-10-25,185000.00,Precision CNC machined turbine brackets batch 1
+INV-2026-OCT-02,Bajaj Electricals Industrial,2026-10-03,2026-10-28,95000.00,Heavy copper busbars and junction assemblies
+INV-2026-OCT-03,L&T Construction Heavy Fab,2026-10-05,2026-11-04,220000.00,Fabricated hydraulic cylinder housings
+INV-2026-OCT-04,Sundram Fasteners Auto,2026-10-08,2026-11-12,145000.00,High-tensile zinc plated fastener packages
